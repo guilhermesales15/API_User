@@ -1,0 +1,1 @@
+{"root":["../src/routes.ts","../src/server.ts","../src/controller/authusercontroller.ts","../src/controller/createusercontroller.ts","../src/prisma/index.ts","../src/services/authuserservice.ts","../src/services/createuserservice.ts"],"version":"5.6.3"}
